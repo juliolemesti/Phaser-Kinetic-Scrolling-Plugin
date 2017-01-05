@@ -1,3 +1,7 @@
+# Notice
+
+This is a fork of the original project for use with Typescript in a Ionic Project.
+
 # Kinetic Scrolling Plugin for Phaser Framework
 
 ![Kinetic Scrolling Plugin](https://raw.githubusercontent.com/jdnichollsc/Phaser-Kinetic-Scrolling-Plugin/gh-pages/img/plugin.png)
